@@ -9,11 +9,11 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Software Development student focused on building a strong technical foundation  
-- 🚀 Seeking an **internship opportunity** to apply my knowledge in real-world projects  
+- 🎓 Software Development student building a strong technical foundation  
+- 🚀 Seeking an **Internship Opportunity** in Software Development  
 - 💡 Interested in backend, databases and problem-solving  
-- 📚 Constantly improving my logic, clean code practices and system development skills  
-- 🤝 Open to learning, collaboration and new challenges  
+- 📚 Focused on clean code, logic and system development  
+- 🤝 Always open to learning and collaboration  
 
 ---
 
@@ -26,9 +26,15 @@ To start my career as a Software Development Intern where I can grow technically
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://instagram.com/milenacod_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milenacod_" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/milena-codinhoto-da-silva-6900442b6/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
+
+<a href="https://instagram.com/milenacod_" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+
 </p>
 
 ---
@@ -37,24 +43,24 @@ To start my career as a Software Development Intern where I can grow technically
 
 <p align="left">
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
 </p>
@@ -64,7 +70,7 @@ To start my career as a Software Development Intern where I can grow technically
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=milenacodinhoto&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=milenacodinhoto&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenacodinhoto&layout=compact&theme=tokyonight"/>
 </p>
 
